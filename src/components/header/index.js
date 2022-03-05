@@ -6,7 +6,7 @@ const Header = () =>{
     return <>
         <nav>
             <div>
-                <img src="https://media.discordapp.net/attachments/411736681885073437/948667919087337522/pokemon-logo.png" className="nav-header-img"></img>
+                <img src="https://media.discordapp.net/attachments/411736681885073437/948667919087337522/pokemon-logo.png" className="nav-header-img" alt="pikachu logo"></img>
             </div>
             
             <div className="flex-item">

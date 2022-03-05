@@ -15,10 +15,14 @@
 
 .card-tittle {
     padding: 10px 0px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
 }
 
 .card-poke-name {
     padding: 10px 0px;
+    font-family: 'Caveat', cursive;
+    font-size: 22px;
 }
 
 .stats span {
@@ -66,4 +70,22 @@
 
 .statName {
     margin-bottom: 2%;
+    font-family: 'Caveat', cursive;
+}
+
+.card-types{
+    display: flex;
+    justify-content: center;   
+    gap: 10px;
+    
+}
+
+.type {
+    padding: 5px 10px;
+    border-radius: 8px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 14px;
+    font-family: 'Caveat', cursive;
+
 }
