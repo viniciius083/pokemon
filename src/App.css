@@ -26,3 +26,17 @@
 }
 
 
+@media (max-width: 375px) {
+  .pokemon-container{
+    max-width: 100%;
+    justify-content: center;
+  }
+}
+
+
+@media (max-width: 375px){
+  .pokemon-container{
+    max-width: 90%;
+    justify-content: center;
+  }
+}
