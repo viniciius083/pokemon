@@ -34,7 +34,7 @@
 }
 
 
-@media (max-width: 375px){
+@media (max-width: 768px){
   .pokemon-container{
     max-width: 90%;
     justify-content: center;
